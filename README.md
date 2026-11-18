@@ -50,6 +50,6 @@ Com o projeto rodando no Eclipse, abra um dos links abaixo no seu navegador:
 
 ## ✿ Desenvolvido por
 
-- **Anelise Lemes**
-- **Ana Vitória**
-- **Letícia**
+- [Anelise Lemes](https://github.com/Liseee2007)
+- [Ana Vitória](https://github.com/anavicgomes)
+- [Letícia](https://github.com/leticiaandradepereira737-cmd)
