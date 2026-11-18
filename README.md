@@ -18,7 +18,7 @@ Aplicação web full-stack para gestão de agência de turismo, permitindo que c
 - **Painel Administrativo:**
   - Dashboard com indicadores de receita ativa, passagens emitidas, passageiros e destinos.
   - Emissão, confirmação e cancelamento de cartões de embarque.
-  - Registo e eliminação de passageiros e destinos.
+  - Registro e eliminação de passageiros e destinos.
 
 ## ✿ Como Executar o Projeto
 
